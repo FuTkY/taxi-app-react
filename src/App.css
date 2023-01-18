@@ -41,3 +41,16 @@
   width: 100wh; 
   height: 100vh;
 }
+
+.map-page-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+  padding: 20px;
+}
+
+.map-container {
+  flex: 1;
+}
